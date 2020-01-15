@@ -19,7 +19,7 @@
 #
 
 pulp_soc:
-  commit: pulp-next-fixes
+  commit: pulp-next
   server: https://github.com
   group:  pulp-platform
 
