@@ -19,9 +19,9 @@
 #
 
 pulp_soc:
-  commit: v1.0.1
+  commit: CLINTXpulp
   server: https://github.com
-  group:  pulp-platform
+  group:  abettati
 
 tbtools:
   commit: v0.1
